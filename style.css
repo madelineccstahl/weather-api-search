@@ -1,0 +1,31 @@
+h1 {
+    color: darkblue;
+    font-size: 2.5rem;
+    font-family: 'Arial', 'Sans-serif';
+    font-weight: bold;
+    flex: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: lightblue;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+.searchForm {
+    color: darkblue;
+    font-size: 1.5rem;
+    font-family: 'Arial', 'Sans-serif';
+    flex: flex;
+    text-align: left;
+    float: left;
+    padding-left: 10px;
+}
+
+.city-date {
+    color: darkblue;
+    font-family: 'Arial', 'Sans-serif';
+    font-weight: bold;
+    flex: flex;
+    text-align: right;
+    float: right;
+    padding-right: 10px;
+}
